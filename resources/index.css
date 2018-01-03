@@ -55,9 +55,12 @@
     display: flex;
     width: 100%;
     background-color: MintCream;
+    top: 96px;
+    height: auto;
   }
   .box3 .words{
     width: 65%;
+    font-size: 18px;
   }
   .box3 h2{
 font-family: 'Merriweather', serif;
@@ -85,6 +88,8 @@ font-family: 'Merriweather', serif;
     flex-direction: column;
     width: 100%;
     background-color: whitesmoke;
+    position: relative;
+
   }
   .fourheader{
     font-size: 32px;
@@ -101,7 +106,7 @@ font-family: 'Merriweather', serif;
     margin-bottom: 32px;
   }
   .libox{
-    width: 30%;
+    width: 22%;
     display: inline-block;
     overflow: hidden;
     margin: 0 16px 32px 16px;
@@ -109,7 +114,7 @@ font-family: 'Merriweather', serif;
 
   }
   .libox img{
-    width: 50%;
+    width: 60%;
     height: 174px;
   }
   .sixcontain .words{
