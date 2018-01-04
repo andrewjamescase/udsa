@@ -222,12 +222,14 @@ font-family: 'Merriweather', serif;
       }
       .box5 .boxb{
         width: 50%;
+        margin-right: 5px;
         margin-left: 10px;
         padding: 0px 0px 0px 10px;
       }
       .box5 .boxc{
         width: 50%;
         margin-right: 10px;
+        margin-left: 5px;
         padding: 0px 0px 0px 10px;
       }
 
