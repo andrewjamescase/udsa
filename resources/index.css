@@ -217,8 +217,13 @@ font-family: 'Merriweather', serif;
         width: 100%;
       }
       .box5 .boxa{
-        width: 80%;
-
+        width: 100%;
+      }
+      .box5 .boxb{
+        margin-left: 10px;
+      }
+      .box5 .boxc{
+        margin-right: 10px;
       }
 
 
