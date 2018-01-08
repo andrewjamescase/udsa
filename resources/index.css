@@ -54,7 +54,7 @@
   .box3{
     display: flex;
     width: 100%;
-    background-color: MintCream;
+    background-color: none;
     top: 96px;
     height: auto;
   }
@@ -221,7 +221,7 @@ font-family: 'Merriweather', serif;
         margin: 0px;
       }
       .box5 .boxb{
-        
+
         margin-right: 5px;
         margin-left: 10px;
         padding: 0px 0px 0px 10px;
